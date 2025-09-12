@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Larini
+# 💻 Felipe Larini
 
 **`Desenvolvedor Back-End`**
 
@@ -40,14 +40,6 @@ Me chamo Felipe Larini, tenho 23 anos e tenho formação em Análise e Desenvolv
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeLarini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
